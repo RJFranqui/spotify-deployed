@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-This was my first attempt at full stack development! The project is 90% complete with all that remains being the strip subscription model.
+This was my attempt at full stack development! The project is 90% complete with all that remains being the strip subscription model.
 So if the profile page doesnt work like you would think this is why!
 
 ## Getting Started
@@ -12,7 +12,8 @@ npm i
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+Note that this will not work since there are none of the DB keys in the .env file, to view the website please visit the link below
 
 ## Deploy on Vercel
 
