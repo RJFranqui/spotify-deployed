@@ -18,3 +18,7 @@ Note that this will not work since there are none of the DB keys in the .env fil
 ## Deploy on Vercel
 
 https://spotify-deployed.vercel.app/
+
+Feel free to make an account with email verification or use my demo account (github OAuth does not work):
+Username: ryanfranquiacct@gmail.com
+Password: 123456
